@@ -1,6 +1,6 @@
 import gleam/list
 import gleeunit
-import punycode
+import ladram_punycode as punycode
 
 pub fn main() -> Nil {
   gleeunit.main()
